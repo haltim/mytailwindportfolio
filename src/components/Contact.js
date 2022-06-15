@@ -19,12 +19,12 @@ const Contact = () => {
               timoayomide2000@gmail.com
             </a>
           </div>
-          <a className='border-b-2 mt-3 inline-block border-gray-500 hover:text-red-300' href='./resume2.pdf' target='_blank' rel='noreferrer'>
+          <a className='border-b-2 mt-3 inline-block border-gray-500 hover:text-red-300' href='./MyResume.pdf' target='_blank' rel='noreferrer'>
             Resume
           </a>
           <div className='flex flex-row flex-wrap mt-7'>
             <div className='mr-4'>
-              <a href='https://www.linkedin.com/in/aviral-tandon-b852891a1/' target='_blank' rel='noreferrer'>
+              <a href='https://www.linkedin.com/mwlite/in/timothy-odugbemi-328035167' target='_blank' rel='noreferrer'>
                 <span className='mb-2 flex flex-row items-end border border-gray-500 p-2 rounded-lg text-sm hover:bg-purple-500'>
                   <img src='./images/icons/linkedin-3-24.png' alt='' width='24px' height='24px' className='mr-1' />
                   LinkedIn
@@ -33,7 +33,7 @@ const Contact = () => {
             </div>
 
             <div className='mr-4'>
-              <a href='https://github.com/aviraltandon21' target='_blank' rel='noreferrer'>
+              <a href='https://github.com/haltim' target='_blank' rel='noreferrer'>
                 <span className='mb-2 flex flex-row items-end border border-gray-500 p-2 rounded-lg text-sm hover:bg-purple-500'>
                   <img src='./images/icons/github-8-24.png' alt='' width='24px' height='24px' className='mr-1' />
                   GitHub
@@ -41,24 +41,7 @@ const Contact = () => {
               </a>
             </div>
 
-            <div className='mr-4'>
-              <a href='https://twitter.com/AviralTandon5' target='_blank' rel='noreferrer'>
-                <span className='mb-2 flex flex-row items-end border border-gray-500 p-2 rounded-lg text-sm hover:bg-purple-500'>
-                  <img src='./images/icons/twitter-24.png' alt='' width='24px' height='24px' className='mr-1' />
-                 
-                  Twitter
-                </span>
-              </a>
-            </div>
-
-            <div className='mr-4'>
-              <a href='https://www.instagram.com/aviral_tandon/' target='_blank' rel='noreferrer'>
-                <span className='mb-2 flex flex-row items-end border border-gray-500 p-2 rounded-lg text-sm hover:bg-purple-500'>
-                  <img src='./images/icons/instagram-24.png' alt='' width='24px' height='24px' className='mr-1' />
-                  Instagram
-                </span>
-              </a>
-            </div>
+            
 
             
           </div>
