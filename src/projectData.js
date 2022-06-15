@@ -28,8 +28,8 @@ const projects = [
       image: './images/projects/mernapp.png',
       description: ' A mini blog app that allows users create blog posts, edit or delete them.',
       tools: ['ReactJS', 'MongoDB', 'NodeJS', 'Material UI'],
-      github: ' https://github.com/haltim/MERN-stack-app',
-      link: 'https://github.com/haltim'
+      github: ' https://github.com/haltim',
+      link: 'https://mernapp1214.herokuapp.com/'
     },
   
 ];
