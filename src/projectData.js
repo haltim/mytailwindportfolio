@@ -29,7 +29,7 @@ const projects = [
       description: ' A mini blog app that allows users create blog posts, edit or delete them.',
       tools: ['ReactJS', 'MongoDB', 'NodeJS', 'Material UI'],
       github: ' https://github.com/haltim/MERN-stack-app',
-      link: 'https://mernapp1213.herokuapp.com/',
+      link: 'https://github.com/haltim'
     },
   
 ];
