@@ -16,10 +16,18 @@ const projects = [
       link: 'https://haltim.github.io/',
     },
     {
+      title: 'Sample ecommerce shopping page',
+      image: './images/projects/reactredux.png',
+      description: 'A sample ecommerce shopping page',
+      tools: ['ReactJS', 'ReactJS-Bootstrap', 'HTML', 'CSS' ],
+      github: 'https://github.com/haltim/reactreduxshoppingpage',
+      link: 'https://reactshoppingpage.herokuapp.com/',
+    },
+    {
       title: 'Real estate page',
       image: './images/projects/shortlets.png',
-      description: 'A landing page for a shortlets rentals business',
-      tools: ['React JS', 'HTML', 'CSS' ],
+      description: 'A landing page for a shortlets rentals site',
+      tools: ['ReactJS', 'HTML', 'CSS' ],
       github: 'https://github.com/haltim/reactjs-shortlets-site',
       link: 'https://shortlets.netlify.app/',
     },
@@ -28,8 +36,8 @@ const projects = [
       image: './images/projects/mernapp.png',
       description: ' A mini blog app that allows users create blog posts, edit or delete them.',
       tools: ['ReactJS', 'MongoDB', 'NodeJS', 'Material UI'],
-      github: ' https://github.com/haltim',
-      link: 'https://mernapp1214.herokuapp.com/'
+      github: ' https://github.com/haltim/MERNstackblog/tree/master/mernclientpage',
+      
     },
   
 ];
