@@ -32,11 +32,11 @@ const projects = [
       link: 'https://shortlets.netlify.app/',
     },
     {
-      title: 'Mini Blog',
-      image: './images/projects/mernapp.png',
-      description: ' A mini blog app that allows users create blog posts, edit or delete them.',
-      tools: ['ReactJS', 'MongoDB', 'NodeJS', 'Material UI'],
-      github: ' https://github.com/haltim/MERNstackblog/tree/master/mernclientpage',
+      title: 'Brand Landing page',
+      image: './images/projects/html.png',
+      description: ' A landing page for a brand.',
+      tools: ['HTML, CSS JavaScript'],
+      github: ' https://github.com/haltim/html-css-javascript',
       
     },
   
