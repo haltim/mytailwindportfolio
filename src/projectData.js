@@ -15,14 +15,14 @@ const projects = [
       github: 'https://github.com/haltim/cryptocurrencylandingpage',
       link: 'https://haltim.github.io/',
     },
-    {
-      title: 'Sample ecommerce shopping page',
-      image: './images/projects/reactredux.png',
-      description: 'A sample ecommerce shopping page',
-      tools: ['ReactJS', 'ReactJS-Bootstrap', 'HTML', 'CSS' ],
-      github: 'https://github.com/haltim/reactreduxshoppingpage',
-      link: 'https://reactshoppingpage.herokuapp.com/',
+{
+      title: 'MongoDB Mini Blog',
+      image: './images/projects/screenshot2.png',
+      description: 'A mini blog where users can upload mini posts and also delete them.',
+      tools: ['React JS', 'NodeJs','MongoAPI'],
+      github: 'https://github.com/haltim/MERNstackblog'
     },
+  
     {
       title: 'Real estate page',
       image: './images/projects/shortlets.png',
